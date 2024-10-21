@@ -1,4 +1,7 @@
 openjdk:8
+mcr.microsoft.com/mssql/server
+postgres:latest
+rabbitmq:latest
 redis
 mysql:8
 #支持指定架构
