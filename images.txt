@@ -3,6 +3,10 @@ mcr.microsoft.com/mssql/server
 postgres:latest
 rabbitmq:latest
 redis
+prom/node-exporter:latest
+prom/prometheus:latest
+grafana/grafana:latest
+google/cadvisor:latest
 mysql:8
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
