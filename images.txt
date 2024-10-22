@@ -1,6 +1,3 @@
-prom/node-exporter:latest
-prom/prometheus:latest
-grafana/grafana:latest
-google/cadvisor:latest
+openjdk:17
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
