@@ -1,4 +1,5 @@
 mongo:latest
 mongo:5.0.10-focal
+mysql:8
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
