@@ -1,4 +1,3 @@
-ouislam/uptime-kuma:1
-
+louislam/uptime-kuma
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
