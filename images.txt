@@ -1,3 +1,4 @@
-sonatype/nexus3
+# sonatype/nexus3
+postgres:latest
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
