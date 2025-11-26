@@ -1,7 +1,7 @@
 # sonatype/nexus3
-# postgres:latest
+postgres:latest
 # redis:latest
 # openjdk:8
-openjdk:25
+# openjdk:25
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
