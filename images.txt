@@ -6,6 +6,9 @@
 # emqx/emqx-enterprise:6.0.1
 # emqx/emqx:5.8.3
 # aspnet:8.0
-nginx:latest
+# nginx:latest
+mcr.microsoft.com/dotnet/aspnet:6.0
+mcr.microsoft.com/dotnet/aspnet:8.0
+mcr.microsoft.com/dotnet/aspnet:10.0
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
