@@ -3,6 +3,7 @@
 # redis:latest
 # openjdk:8
 # openjdk:25
-emqx/emqx-enterprise:6.0.1
+# emqx/emqx-enterprise:6.0.1
+emqx/emqx:6.0.1
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
