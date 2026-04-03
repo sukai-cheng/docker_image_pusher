@@ -11,6 +11,7 @@
 # mcr.microsoft.com/dotnet/aspnet:8.0
 # mcr.microsoft.com/dotnet/aspnet:10.0
 # rustfs/rustfs:latest
-amazoncorretto:21
+rustdesk/rustdesk-server
+# amazoncorretto:21
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
