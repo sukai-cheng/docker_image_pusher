@@ -5,13 +5,14 @@
 # openjdk:25
 # emqx/emqx-enterprise:6.0.1
 # emqx/emqx:5.8.3
+emqx/emqx:6.2.0
 # aspnet:8.0
 # nginx:latest
 # mcr.microsoft.com/dotnet/aspnet:6.0
 # mcr.microsoft.com/dotnet/aspnet:8.0
 # mcr.microsoft.com/dotnet/aspnet:10.0
 # rustfs/rustfs:latest
-rustdesk/rustdesk-server
+# rustdesk/rustdesk-server
 # amazoncorretto:21
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
