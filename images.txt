@@ -15,6 +15,7 @@
 # rustfs/rustfs:latest
 # rustdesk/rustdesk-server
 # amazoncorretto:21
-mattermost/mattermost-team-edition:11.8.3
+mattermost/mattermost-team-edition:release-11.8
+mattermost/mattermost-enterprise-edition:release-11.8
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
