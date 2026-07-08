@@ -6,7 +6,7 @@
 # emqx/emqx-enterprise:6.0.1
 # emqx/emqx:5.8.3
 # emqx/emqx:6.2.0
-tdengine/tsdb:3.4.1.6
+# tdengine/tsdb:3.4.1.6
 # aspnet:8.0
 # nginx:latest
 # mcr.microsoft.com/dotnet/aspnet:6.0
@@ -15,5 +15,6 @@ tdengine/tsdb:3.4.1.6
 # rustfs/rustfs:latest
 # rustdesk/rustdesk-server
 # amazoncorretto:21
+mattermost-team-edition:11.7.0
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
