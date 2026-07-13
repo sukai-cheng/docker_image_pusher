@@ -20,7 +20,8 @@
 # gotenberg/gotenberg:8.25
 # apache/tika:latest
 # paperlessngx/paperless-ngx:latest
-liuweitao/paperless-ngx:latest
+# liuweitao/paperless-ngx:latest
+cassandra:latest
 # postgres:18
 # mariadb:12
 # redis:8
