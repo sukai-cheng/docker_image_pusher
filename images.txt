@@ -25,6 +25,7 @@
 # postgres:18
 # mariadb:12
 # redis:8
-jenkins/jenkins:latest
+# jenkins/jenkins:latest
+xprobe/xinference:v0.12.3
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
