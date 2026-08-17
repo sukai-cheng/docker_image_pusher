@@ -26,6 +26,7 @@
 # mariadb:12
 # redis:8
 # jenkins/jenkins:latest
-xprobe/xinference:v0.12.3
+# xprobe/xinference:v0.12.3
+nvidia/cuda:12.2.0-base-rockylinux9
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
