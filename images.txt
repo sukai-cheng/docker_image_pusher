@@ -27,6 +27,7 @@
 # redis:8
 # jenkins/jenkins:latest
 # xprobe/xinference:v0.12.3
-nvidia/cuda:12.2.0-base-rockylinux9
+# nvidia/cuda:12.2.0-base-rockylinux9
+tensorflow/tensorflow:latest-gpu
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
