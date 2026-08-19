@@ -30,7 +30,8 @@
 xprobe/xinference:latest
 # nvidia/cuda:12.2.0-base-rockylinux9
 # tensorflow/tensorflow:latest-gpu
-tensorflow/tensorflow:latest-gpu-jupyter
-tensorflow/tensorflow:2.15.0-gpu-jupyter
+# tensorflow/tensorflow:latest-gpu-jupyter
+# tensorflow/tensorflow:2.15.0-gpu-jupyter
+qdrant/qdrant:latest
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
