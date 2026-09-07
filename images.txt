@@ -27,11 +27,12 @@
 # redis:8
 # jenkins/jenkins:latest
 # xprobe/xinference:v0.12.3
-xprobe/xinference:latest
+# xprobe/xinference:latest
 # nvidia/cuda:12.2.0-base-rockylinux9
 # tensorflow/tensorflow:latest-gpu
 # tensorflow/tensorflow:latest-gpu-jupyter
 # tensorflow/tensorflow:2.15.0-gpu-jupyter
-qdrant/qdrant:latest
+# qdrant/qdrant:latest
+nacos/nacos-server:v2.5.4
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
