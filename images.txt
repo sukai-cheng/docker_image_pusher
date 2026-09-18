@@ -33,6 +33,7 @@
 # tensorflow/tensorflow:latest-gpu-jupyter
 # tensorflow/tensorflow:2.15.0-gpu-jupyter
 # qdrant/qdrant:latest
-nacos/nacos-server:v2.5.4
+# nacos/nacos-server:v2.5.4
+rabbitmq:4.3-management
 #支持指定架构1
 --platform=linux/arm64 xiaoyaliu/alist
