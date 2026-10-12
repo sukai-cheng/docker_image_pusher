@@ -21,7 +21,7 @@
 # apache/tika:latest
 # paperlessngx/paperless-ngx:latest
 # liuweitao/paperless-ngx:latest
-cassandra:latest
+--platform=linux/arm64/v8 cassandra:latest
 # postgres:18
 # mariadb:12
 # redis:8
@@ -35,5 +35,4 @@ cassandra:latest
 # qdrant/qdrant:latest
 # nacos/nacos-server:v2.5.4
 # rabbitmq:4.3-management
-#支持指定架构1
---platform=linux/arm64/v8 xiaoyaliu/alist
+# --platform=linux/arm64/v8 xiaoyaliu/alist
