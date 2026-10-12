@@ -21,7 +21,8 @@
 # apache/tika:latest
 # paperlessngx/paperless-ngx:latest
 # liuweitao/paperless-ngx:latest
---platform=linux/arm64/v8 cassandra:latest
+# --platform=linux/arm64/v8 cassandra:latest
+cassandra:latest
 # postgres:18
 # mariadb:12
 # redis:8
